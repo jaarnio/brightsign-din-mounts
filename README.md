@@ -28,3 +28,6 @@ XD5 and HD5 players. Spring clip in rear with Ethernet port on the bottom
 
 ![IMG_3988](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/abef9b7e-dbe5-4306-b37d-54f4e8ef9d01)
 Installed, with cable management
+
+
+![DIN clip](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/36b66777-abca-46b6-ad54-dba91fd74e9d)
