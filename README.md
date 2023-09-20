@@ -7,6 +7,12 @@ Printed with Elegoo Neptune 4 Pro, using Atomic filaments PLA. Prusa slicer with
 [rced] = "Rear Clip Ethernet Down"  This orientation assumes the ethernet and HDMI are in the front, and it positions the DIN clip to the rear.
 
 
+
+https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/7bc6a02a-cb99-46c4-bf30-61a5eefd7fd8
+
+
+
+
 ![XD5-HD5-DIN  fced](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/671e4374-4d46-4b56-a30c-bc57704d92fa)
 XD5 and HD5 players. Spring clip in front with Ethernet port on the bottom
 
