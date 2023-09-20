@@ -2,7 +2,9 @@
 3d Printable DIN mount brackets for BrightSign series 5 players.  Printed with Elegoo Neptune 4 Pro, using Atomic filaments PLA. Prusa slicer with 10% grid infill.
 
 [fced] = "Front Clip Ethernet Down" This orientation assumes the ethernet and HDMI are in the front, and it positions the DIN clip to the front.
+
 [rced] = "Rear Clip Ethernet Down"  This orientation assumes the ethernet and HDMI are in the front, and it positions the DIN clip to the rear.
+
 
 ![XD5-HD5-DIN  fced](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/671e4374-4d46-4b56-a30c-bc57704d92fa)
 XD5 and HD5 players. Spring clip in front with Ethernet port on the bottom
