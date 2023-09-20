@@ -1,5 +1,6 @@
 # brightsign-din-mounts
-3d Printable DIN mount brackets for BrightSign series 5 players.  Printed with Elegoo Neptune 4 Pro, using Atomic filaments PLA. Prusa slicer with 10% grid infill.
+3d Printable DIN mount brackets for BrightSign series 4 and seriss 5 players.  Does not currently include XC5 or AU5.  
+Printed with Elegoo Neptune 4 Pro, using Atomic filaments PLA. Prusa slicer with 10% grid infill.  Use whatever slicer your printer uses, with your default infill settings.  Does not require supports for overhangs.
 
 [fced] = "Front Clip Ethernet Down" This orientation assumes the ethernet and HDMI are in the front, and it positions the DIN clip to the front.
 
