@@ -1,15 +1,25 @@
 # brightsign-din-mounts
 3d Printable DIN mount brackets for BrightSign series 5 players
-![XD5-HD5-DIN  fced](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/e00bbac7-d049-4401-a98b-13fcd10a4d62)
+
+![XD5-HD5-DIN  fced](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/671e4374-4d46-4b56-a30c-bc57704d92fa)
 XD5 and HD5 players. Spring clip in front with Ethernet port on the bottom
 
-![XD5-HD5-DIN  rced](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/5eca34b5-c603-4dd6-95c3-372fb9b09699)
+
+![XD5-HD5-DIN  rced](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/b400c4d6-f182-460f-90b8-39498956740a)
 XD5 and HD5 players. Spring clip in rear with Ethernet port on the bottom
 
-![LS5-DIN  rced](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/a8fb4ddd-1cd0-47b3-a3f7-26e929098cb5)
+
+![LS5-DIN  rced](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/879880cd-41b4-418d-ac94-c0145a9788ba)
 LS5 players. Spring clip in rear with Ethernet port on the bottom
 
-![LS5-DIN  fced](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/afaf3a2a-76f1-4be9-9f57-c4c2b1fd97c0)
+
+![LS5-DIN  fced](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/3461fadc-d639-4023-aceb-fc7531e74d46)
 LS5 players. Spring clip in front with Ethernet port on the bottom
 
-![DIN clip](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/0b3b8fda-02f1-45e4-9015-77ed36c40cea)
+
+![IMG_3934](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/d3bb3b4f-2a3a-479e-8472-945236ab0654)
+XD5 and HD5 players. Spring clip in rear with Ethernet port on the bottom
+
+
+![IMG_3988](https://github.com/jaarnio/brightsign-din-mounts/assets/46546462/abef9b7e-dbe5-4306-b37d-54f4e8ef9d01)
+Installed, with cable management
